@@ -1,3 +1,7 @@
+<p align="right">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=thewhiteh4t.visitor-badge"> 
+</p>
+
 <a href="https://thewhiteh4t.github.io" target="_blank">
   <img src="https://i.imgur.com/Ws6ithh.png">
 </a>
