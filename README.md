@@ -1,10 +1,29 @@
 <p align="right">
+  <img src="https://img.shields.io/github/followers/thewhiteh4t?label=Follow&style=social">
   <img src="https://visitor-badge.glitch.me/badge?page_id=thewhiteh4t.visitor-badge"> 
 </p>
 
 <a href="https://thewhiteh4t.github.io" target="_blank">
   <img src="https://i.imgur.com/Ws6ithh.png">
 </a>
+<br>
+<p align="center">
+  <a href="https://twitter.com/thewhiteh4t">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/twitter.svg">
+  </a>
+  <img src="https://i.imgur.com/FIER2ut.png">
+  <a href="https://www.youtube.com/c/thewhiteh4t">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/youtube.svg">
+  </a>
+  <img src="https://i.imgur.com/FIER2ut.png">
+  <a href="https://t.me/thewhiteh4t">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/telegram.svg">
+  </a>
+  <img src="https://i.imgur.com/FIER2ut.png">
+  <a href="https://www.linkedin.com/in/lohityapushkar">
+    <img width="40px" height="40px" src="https://thewhiteh4t.github.io/images/svg/linkedin.svg">
+  </a>
+</p>
 
 # Projects
 
