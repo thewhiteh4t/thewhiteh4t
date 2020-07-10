@@ -25,6 +25,14 @@
   </a>
 </p>
 
+I write about tools I have created for the cyber security community, updates regarding my active projects, exploits, tutorials, PoCs and a little bit of OSINT.
+
+<p align="center">
+  <a href="https://discord.com/invite/A2FUvkM">
+    <img src="https://i.imgur.com/zcubujh.png">
+  </a>
+</p>
+
 # Projects
 
 <p align="center">
