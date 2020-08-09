@@ -28,8 +28,11 @@
 I write about tools I have created for the cyber security community, updates regarding my active projects, exploits, tutorials, PoCs and a little bit of OSINT.
 
 <p align="center">
+  <a href="https://thewhiteh4t.github.io/">
+    <img src="https://dabuttonfactory.com/button.png?t=Join+me+on+Discord&f=Open+Sans-Bold&ts=20&tc=000&hp=20&vp=12&c=5&bgt=unicolored&bgc=00e2ff">
+  </a>
   <a href="https://discord.com/invite/A2FUvkM">
-    <img src="https://i.imgur.com/zcubujh.png">
+    <img src="https://dabuttonfactory.com/button.png?t=Visit+my+Blog&f=Open+Sans-Bold&ts=20&tc=000&hp=20&vp=12&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
 
