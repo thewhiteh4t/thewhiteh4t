@@ -25,6 +25,8 @@
   </a>
 </p>
 
+---
+
 I write about tools I have created for the cyber security community, updates regarding my active projects, exploits, tutorials, PoCs and a little bit of OSINT.
 
 <p align="center">
@@ -35,6 +37,8 @@ I write about tools I have created for the cyber security community, updates reg
     <img src="https://dabuttonfactory.com/button.png?t=Discord&f=Open+Sans-Bold&ts=20&tc=000&hp=20&vp=12&w=100&h=45&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
+
+---
 
 # Projects
 
@@ -54,4 +58,9 @@ I write about tools I have created for the cyber security community, updates reg
   <a href="https://github.com/thewhiteh4t/flashsploit" target="_blank">
     <img width="40%" height="40%" src="https://i.imgur.com/KoY1Y96.jpg">
   </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thewhiteh4t&show_icons=true&theme=blue-green">
 </p>
