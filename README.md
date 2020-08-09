@@ -1,6 +1,6 @@
 <p align="right">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/thewhiteh4t?label=Followers">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=thewhiteh4t.visitor-badge"> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=thewhiteh4t.visitor-badge.profile"> 
 </p>
 
 <a href="https://thewhiteh4t.github.io" target="_blank">
