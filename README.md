@@ -29,10 +29,10 @@ I write about tools I have created for the cyber security community, updates reg
 
 <p align="center">
   <a href="https://thewhiteh4t.github.io/">
-    <img src="https://dabuttonfactory.com/button.png?t=Blog&f=Open+Sans-Bold&ts=20&tc=000&hp=20&vp=12&c=5&bgt=unicolored&bgc=00e2ff">
+    <img src="https://dabuttonfactory.com/button.png?t=Blog&f=Open+Sans-Bold&ts=20&tc=000&hp=20&vp=12&w=100&h=45&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
   <a href="https://discord.com/invite/A2FUvkM">
-    <img src="https://dabuttonfactory.com/button.png?t=Discord&f=Open+Sans-Bold&ts=20&tc=000&hp=20&vp=12&c=5&bgt=unicolored&bgc=00e2ff">
+    <img src="https://dabuttonfactory.com/button.png?t=Discord&f=Open+Sans-Bold&ts=20&tc=000&hp=20&vp=12&w=100&h=45&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
 
