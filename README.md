@@ -40,6 +40,13 @@ I write about tools I have created for the cyber security community, updates reg
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thewhiteh4t&show_icons=true&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewhiteh4t&show_icons=true&theme=blue-green&layout=compact">
+</p>
+
+---
+
 # Projects
 
 <p align="center">
@@ -58,9 +65,4 @@ I write about tools I have created for the cyber security community, updates reg
   <a href="https://github.com/thewhiteh4t/flashsploit" target="_blank">
     <img width="40%" height="40%" src="https://i.imgur.com/KoY1Y96.jpg">
   </a>
-</p>
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thewhiteh4t&show_icons=true&theme=blue-green">
 </p>
