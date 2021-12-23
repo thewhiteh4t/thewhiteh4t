@@ -16,7 +16,7 @@
 ├─▣ Security Researcher
 ├─▣ Content Creator
 ├─▣ <a href="https://thewhiteh4t.github.io/">thewhiteh4t's Blog</a>
-├─▣ I am mostly available at <a href="https://discord.gg/MtKK7U4">The White Circle</a>
+├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -33,6 +33,7 @@
 │
 ├─◈ <a href="https://github.com/thewhiteh4t/seeker">Seeker</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/FinalRecon">FinalRecon</a>
+├─◈ <a href="https://github.com/thewhiteh4t/nexfil">NExfil</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/pwnedornot">pwnedOrNot</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/killcast">KillCast</a>
 ├─◈ <a href="https://github.com/thewhiteh4t/flashsploit">FlashSploit</a>
