@@ -17,8 +17,8 @@
 ├─▣ Penetration Tester
 ├─▣ CVE Researcher & Open Source Security Tool Developer
 ├─▣ Creator of Seeker (7k+ ⭐), FinalRecon (2k+ ⭐), NExfil, pwnedOrNot
-├─▣ [Blog](https://thewhiteh4t.github.io/)
-├─▣ Core Team @ [The White Circle](https://twc1rcle.com/)
+├─▣ <a href="https://thewhiteh4t.github.io/">Blog</a>
+├─▣ Core Team @ <a href="https://twc1rcle.com/">The White Circle</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -35,8 +35,8 @@
   
 ┌──┤ RESEARCH & CVEs ├──▰▰▰
 │
-├─◈ [CVEs](https://thewhiteh4t.github.io/#cves)
-├─◈ [Published articles on OSINT, Reconnaissance & Privacy](https://thewhiteh4t.github.io/#publications)
+├─◈ <a href="https://thewhiteh4t.github.io/#cves">CVEs</a>
+├─◈ <a href="https://thewhiteh4t.github.io/#publications">Published articles on OSINT, Reconnaissance & Privacy</a>
 │
 └───────────────────────────────▰▰▰
 
