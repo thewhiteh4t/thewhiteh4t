@@ -16,7 +16,8 @@
 ├─▣ Lohitya Pushkar (thewhiteh4t)
 ├─▣ Penetration Tester
 ├─▣ CVE Researcher & Open Source Security Tool Developer
-├─▣ Creator of Seeker (7k+ ⭐), FinalRecon (2k+ ⭐), NExfil, pwnedOrNot
+├─▣ Creator of Seeker (9k+ ⭐), FinalRecon (2k+ ⭐)
+├─▣ Creator of NExfil (2k+ ⭐), pwnedOrNot (2k+ ⭐)
 ├─▣ <a href="https://thewhiteh4t.github.io/">Blog</a>
 ├─▣ Core Team @ <a href="https://twc1rcle.com/">The White Circle</a>
 │
