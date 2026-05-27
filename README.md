@@ -38,6 +38,7 @@
 │
 ├─◈ <a href="https://thewhiteh4t.github.io/#cves">CVEs</a>
 ├─◈ <a href="https://thewhiteh4t.github.io/#publications">Published articles on OSINT, Reconnaissance & Privacy</a>
+├─◈ <a href="https://github.com/thewhiteh4t/LLMReaper">LLMReaper - Passive LLM Conversation Capture & Sensitive Data Exposure Research</a>
 │
 └───────────────────────────────▰▰▰
 
